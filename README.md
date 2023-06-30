@@ -3,6 +3,7 @@
 ### Karl Denzel Dayrit
 ### Mark Jayson Mayo
 
+## Specifications
 Upon creation, the ship is given an initial x position equal to 150, initial y position equal to 250 and a randomized initial
 strength between 100-150. The ship can move by 10 pixels at a time. The ship can also shoot bullets when the
 spacebar is pressed. The bullets shot by the ship move towards the right side of the screen in a straight line and
